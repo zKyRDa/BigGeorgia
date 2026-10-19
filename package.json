@@ -7,6 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "server": "node server/booking-server.mjs"
   },
   "dependencies": {
@@ -25,6 +27,7 @@
     "@types/react": "^18.3.20",
     "@types/react-dom": "^18.3.7",
     "@vitejs/plugin-react": "^4.4.1",
+    "gh-pages": "^6.3.0",
     "playwright": "^1.63.0",
     "shadcn": "^4.21.0",
     "tailwindcss": "^4.1.7",
