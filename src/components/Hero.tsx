@@ -106,7 +106,7 @@ export default function Hero({ onBook }: { onBook: () => void }) {
         >
           <div className="relative overflow-hidden rounded-[28px] border border-line shadow-card">
             <img
-              src="/img/hero/main.webp"
+              src="./img/hero/main.webp"
               alt="Хинкали и хачапури по-аджарски в ресторане «Большая грузинская кухня»"
               className="aspect-[4/5] w-full object-cover sm:aspect-[5/5.4]"
               width={1500}

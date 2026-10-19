@@ -28,7 +28,7 @@ export default function Nav({ onBook }: { onBook: () => void }) {
       <div className="mx-auto flex h-[76px] max-w-[1280px] items-center justify-between gap-4 px-5 md:px-8">
         <a href="#top" className="flex min-w-0 items-center gap-3">
           <img
-            src="/img/brand/logo.webp"
+            src="./img/brand/logo.webp"
             alt="Логотип «Большая грузинская кухня»"
             className="h-11 w-11 shrink-0 rounded-full border border-line object-cover"
             width={44}

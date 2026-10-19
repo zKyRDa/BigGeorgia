@@ -8,7 +8,7 @@ export default function Footer() {
       <OrnamentRule />
       <div className="mx-auto flex max-w-[1280px] flex-col gap-8 px-5 py-12 md:flex-row md:items-center md:justify-between md:px-8">
         <div className="flex items-center gap-3">
-          <img src="/img/brand/logo.webp" alt="" className="h-10 w-10 rounded-full border border-white/30 object-cover" />
+          <img src="./img/brand/logo.webp" alt="" className="h-10 w-10 rounded-full border border-white/30 object-cover" />
           <div>
             <p className="font-display text-lg text-white">{RESTAURANT.name}</p>
             <p className="text-xs text-white/70">{RESTAURANT.slogan}</p>
@@ -23,11 +23,13 @@ export default function Footer() {
             ВКонтакте
           </a>
         </nav>
-        <p className="text-xs leading-relaxed text-white/60">
-          © 2026 · {BRANCHES.length} ресторана в Санкт-Петербурге
-          <br />
-          Цены и меню: официальное меню сети
-        </p>
+        <div className="text-xs leading-relaxed text-white/60">
+          <p>© 2026 · {BRANCHES.length} ресторана в Санкт-Петербурге</p>
+          <p>Цены и меню: официальное меню сети</p>
+          <p className="mt-1 font-medium text-amber-200/90">
+            Демо-концепт, не официальный сайт, удалим по первой просьбе
+          </p>
+        </div>
       </div>
     </footer>
   );
