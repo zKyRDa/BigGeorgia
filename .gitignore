@@ -1,0 +1,9 @@
+node_modules/
+.agents/
+.playwright-mcp/
+dist/
+dist-ssr/
+screenshots/
+menu_assets/
+.mcp.json
+package-lock.json
