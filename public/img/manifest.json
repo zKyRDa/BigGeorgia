@@ -1,0 +1,327 @@
+[
+ {
+  "out": "/img/brand/logo.webp",
+  "caption": "Логотип «Большая грузинская кухня»",
+  "kind": "brand"
+ },
+ {
+  "out": "/img/brand/banner.webp",
+  "caption": "Хинкали и хачапури — всё по 290 ₽",
+  "kind": "brand"
+ },
+ {
+  "out": "/img/brand/logo-card.webp",
+  "caption": "Фирменный стиль",
+  "kind": "brand"
+ },
+ {
+  "out": "/img/hero/main.webp",
+  "caption": "Хинкали и хачапури по-аджарски",
+  "kind": "hero"
+ },
+ {
+  "out": "/img/branches/nevsky/cover.webp",
+  "caption": "Двухуровневый зал на Невском, 54",
+  "kind": "cover"
+ },
+ {
+  "out": "/img/branches/kirpichny/cover.webp",
+  "caption": "Уютный зал в Кирпичном пер., 3",
+  "kind": "cover"
+ },
+ {
+  "out": "/img/branches/turistskaya/cover.webp",
+  "caption": "Просторный зал на Туристской, 34",
+  "kind": "cover"
+ },
+ {
+  "out": "/img/branches/nevsky/g01.webp",
+  "caption": "Тёплый зал с деревом и зеленью",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g02.webp",
+  "caption": "Столик у входа",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g03.webp",
+  "caption": "Двухуровневый зал с балконом",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g04.webp",
+  "caption": "Круговой зал с гирляндами",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g05.webp",
+  "caption": "Вечерняя посадка",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g06.webp",
+  "caption": "Разноцветные стулья и балкон",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g07.webp",
+  "caption": "Зал с живой зеленью",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g08.webp",
+  "caption": "Светлая дневная посадка",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g09.webp",
+  "caption": "Вход с Невского проспекта",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g10.webp",
+  "caption": "Фасад на Невском, 54",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/nevsky/g11.webp",
+  "caption": "Юные гости за обедом",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g01.webp",
+  "caption": "Диваны и плетёные лампы",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g02.webp",
+  "caption": "Зал с винными постерами",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g03.webp",
+  "caption": "Красные кресла и дерево",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g04.webp",
+  "caption": "Основной зал",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g05.webp",
+  "caption": "Мягкие диваны у окна",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g06.webp",
+  "caption": "Столик у окна с видом на переулок",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g07.webp",
+  "caption": "Фасад в Кирпичном пер., 3",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g08.webp",
+  "caption": "Вход и летняя веранда",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g09.webp",
+  "caption": "Семейный обед",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/kirpichny/g10.webp",
+  "caption": "Большая компания за столом",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/turistskaya/g01.webp",
+  "caption": "Светлый просторный зал",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/turistskaya/g02.webp",
+  "caption": "Диваны и зелень",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/turistskaya/g03.webp",
+  "caption": "Красные шторы и кресла",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/turistskaya/g04.webp",
+  "caption": "Мягкая посадка",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/turistskaya/g05.webp",
+  "caption": "Белые кресла и дерево",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/turistskaya/g06.webp",
+  "caption": "ТРК «Охта Молл» рядом с рестораном",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/turistskaya/g07.webp",
+  "caption": "Неоновая вывеска",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/branches/turistskaya/g08.webp",
+  "caption": "Столик с хачапури",
+  "kind": "gallery"
+ },
+ {
+  "out": "/img/dishes/khinkali-studio.webp",
+  "caption": "Хинкали ручной лепки и шоти из тандыра",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/salad-eggplant.webp",
+  "caption": "Салат с хрустящими баклажанами и фетой",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/salad-eggplant-2.webp",
+  "caption": "Тот же салат в керамической подаче",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/odzhakhuri.webp",
+  "caption": "Оджахури со свининой в кеци",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/adjapsandali.webp",
+  "caption": "Аджапсандали и овощной салат",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/pkhali.webp",
+  "caption": "Пхали из свёклы",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/beef-salad.webp",
+  "caption": "Тёплый салат с говядиной и томаты с сулугуни",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/baklava.webp",
+  "caption": "Пахлава с грецким орехом",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/brownie.webp",
+  "caption": "Шоколадный брауни с мороженым",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/blini.webp",
+  "caption": "Блины со сметаной и вишней",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/khinkali-plate.webp",
+  "caption": "Хинкали на белой тарелке",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/khinkali-blue.webp",
+  "caption": "Хинкали на синей тарелке",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/adjaruli.webp",
+  "caption": "Хачапури по-аджарски",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/adjaruli-beer.webp",
+  "caption": "Хачапури по-аджарски и домашний лимонад",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/megruli.webp",
+  "caption": "Хачапури по-мегрельски и аджарски",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/shoti.webp",
+  "caption": "Хлеб шоти из тандыра",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/lobiani.webp",
+  "caption": "Лобиани в кеци",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/khachapuri-skewer.webp",
+  "caption": "Харчо и хачапури на шампуре",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/eggplant-rolls.webp",
+  "caption": "Рулетики из баклажанов с сыром",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/soup-khinkali.webp",
+  "caption": "Суп с мини-хинкали",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/kharcho.webp",
+  "caption": "Харчо с шоти",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/lyulya.webp",
+  "caption": "Люля-кебаб с молодым картофелем",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/shashlik.webp",
+  "caption": "Шашлык и хачапури",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/fish-dish.webp",
+  "caption": "Рыбное блюдо с овощами",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/caesar.webp",
+  "caption": "Цезарь по-грузински с цыплёнком",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/crispy-potato.webp",
+  "caption": "Салат с хрустящим картофелем и фетой",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/salads-duo.webp",
+  "caption": "Салаты на синих тарелках",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/lemonade.webp",
+  "caption": "Грузинский лимонад",
+  "kind": "dish"
+ },
+ {
+  "out": "/img/dishes/spread.webp",
+  "caption": "Грузинский стол: закуски и кеци",
+  "kind": "dish"
+ }
+]
